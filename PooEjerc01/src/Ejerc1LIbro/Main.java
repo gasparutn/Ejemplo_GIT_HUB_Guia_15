@@ -21,6 +21,7 @@ public class Main {
         System.out.println("");
        L1.toString(); 
         System.out.println(L1);
+        System.out.println("");
     }
     
 }
