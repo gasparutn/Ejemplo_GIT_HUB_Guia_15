@@ -1,0 +1,7 @@
+Hola Lauty. Como veras te envie una invitacion para colaborar en este
+proyecto. Lo que tienes que hacer es generar varios obejor libros y
+realizar los sout correspondiente, colocande frases para mostras distintas. 
+Avisame por whassap cuando termines y hayas hecho un git push origin lauty/ClaseMain
+previamente recuerda que tienes que crear un carpeta x y hacer un pull del ejercicio
+laburarlo con tu netbeans y luego hacer todo la movida para hacer un commit. Suerte. cualquier
+dudas me avisas sin importa la hora. 
