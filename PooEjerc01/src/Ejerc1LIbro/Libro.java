@@ -15,11 +15,13 @@ import java.util.Scanner;
 public class Libro {
 
     //ATRIBUTOS
-    public int ISBN;
-    public String Titulo;
-    public String Autor;
-    public int Numerodepaginas;
-
+    public int ISBN; DR. Tiziano. Deje todo como estaba
+    public String Titulo; las lineas rojas deben desaparecer
+    public String Autor; simplemente borrando todos esto que escribo
+    public int Numerodepaginas; arrbiba. Cuando termines tiene que hacer
+         un git push de esta rama con un commit que diga, "Correciones hechas"
+         y luego me avisas, asi yo verifico y hago merge con mi respositorio
+                 develop. Suerte. Sino cumple te despedido y te pago en patacones. 
     //CONTRUCTOR
     public Libro() {
     }
